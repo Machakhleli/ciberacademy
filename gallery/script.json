@@ -1,0 +1,41 @@
+{  
+    "name" : "black-widow",
+    "role" : "spy",
+    "image" : "img/balack-widow.png"
+}
+{    "name" : "Captain America",
+    "role" : "first avanger",
+    "image" : "img/c.america.jpg"
+}
+    
+{  
+    "name" : "Captain Marvel",
+    "role" : "defender",
+    "image" : "img/CaptainMarvel.jpg"
+}
+{  
+    "name" : "Dr. Strange",
+    "role" : "sorcerer",
+    "image" : "img/dr.strange.jpg"
+}
+{  
+    "name" : "Hulk",
+    "role" : "scientist monster",
+    "image" : "img/hulk/jpg"
+}
+{  
+    "name" : "Iron Man",
+    "role" : " Hero",
+    "image" : "img/iron-man.jpg"
+}
+{  
+    "name" : "spider man",
+    "role" : "clever teenager",
+    "image" : "img/spider-man.ipg"
+}
+{  
+    "name" : "Thor",
+    "role" : "Asgardian",
+    "image" : "img/thor.ipg"
+}
+
